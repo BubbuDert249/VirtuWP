@@ -1,2 +1,10 @@
 # VirtuWP
-VM manager for Windows Phone
+VM manager for Windows Phone <br>
+NOTE: VirtuWP does not run real OS'es, it runs a recreation of them in C# and compatible with Windows Phone <br>
+Requirements: <br>
+OS: Windows Phone 8 or newer <br>
+RAM: 512 MB or more <br>
+CPU: Snapdragon 200 or better <br>
+VM's VirtuWP can create: <br>
+MS-DOS <br>
+Linux <br>
