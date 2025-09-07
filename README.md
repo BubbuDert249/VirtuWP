@@ -5,6 +5,3 @@ Requirements: <br>
 OS: Windows Phone 8 or newer <br>
 RAM: 512 MB or more <br>
 CPU: Snapdragon 200 or better <br>
-VM's VirtuWP can create: <br>
-MS-DOS <br>
-Linux <br>
