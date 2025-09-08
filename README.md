@@ -6,17 +6,16 @@ OS: Windows Phone 8 or newer <br>
 RAM: 512 MB or more <br>
 CPU: Snapdragon 200 or better <br>
 Here's a comparison table between Limbo for Android, UTM for iOS and VirtuWP for Windows Phone: <br>
-| Feature                  | Limbo (Android) | UTM (iOS) | VirtuWP (Windows Phone) |
-|---------------------------|----------------|-----------|-------------------------|
-| Run MS-DOS                | ✅             | ✅        | ✅                      |
-| Run Linux                 | ✅             | ✅        | ✅                      |
-| Run Windows               | ✅             | ✅        | ❌                      |
-| Run other OSes            | ✅             | ✅        | ✅ (simulated only)     |
-| VM Creation               | ✅             | ✅        | ✅                      |
-| VM Deletion               | ✅             | ✅        | ✅                      |
-| Isolated Storage          | ✅             | ✅        | ✅                      |
-| Scrollable Terminal       | ✅             | ✅        | ✅                      |
-| Landscape Only            | ❌             | ❌        | ✅                      |
-| Custom VM Names           | ✅             | ✅        | ✅                      |
-| Open Source               | ❌             | ✅        | ✅                      |
-| Free                      | ✅             | ✅        | ✅                      |
+| Feature                            | Limbo (Android) | UTM (iOS) | VirtuWP (Windows Phone) |
+|-----------------------------------|----------------|-----------|-------------------------|
+| Can run MS-DOS                     | ✅             | ✅        | ✅                      |
+| Can run Linux                      | ✅             | ✅        | ✅ (simulated)          |
+| Can run Windows                     | ✅             | ✅        | ❌                      |
+| Can create new VMs                 | ✅             | ✅        | ✅                      |
+| Can delete VMs                     | ✅             | ✅        | ✅                      |
+| Saves VM data locally / isolated   | ✅             | ✅        | ✅                      |
+| Terminal scrolls when text overflows| ✅             | ✅        | ✅                      |
+| Landscape / horizontal only        | ❌             | ❌        | ✅                      |
+| Supports custom VM names           | ✅             | ✅        | ✅                      |
+| Free to use                        | ✅             | ✅        | ✅                      |
+| Open source                        | ❌             | ✅        | ✅                      |
