@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+  <App xmlns="" ProductID="{a70b4657-9e67-4e04-b236-7a2744497d90}" Title="VirtuWP" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="BubbuDert" Description="Windows Phone app for making VMs">
+    <AppManifest>
+      <Capabilities>
+        <Capability Name="ID_CAP_ISV_STORAGE"/>
+      </Capabilities>
+      <Tokens>
+        <PrimaryToken TokenID="VirtuWPToken" TaskName="_default" />
+      </Tokens>
+      <Tasks>
+        <DefaultTask Name="_default" NavigationPage="MainPage.xaml"/>
+      </Tasks>
+      <ScreenResolutions>
+        <ScreenResolution Name="WVGA"/>
+        <ScreenResolution Name="WXGA"/>
+        <ScreenResolution Name="720p"/>
+      </ScreenResolutions>
+      <Icons>
+        <IconPath IsRelative="true" IsResource="false">Assets\VirtuWPIcon.png</IconPath>
+        <SmallIconPath IsRelative="true" IsResource="false">Assets\VirtuWPIconSmall.png</SmallIconPath>
+      </Icons>
+      <Extensions>
+        <Protocol Name="virtuwp" NavUriFragment="" TaskID="_default" />
+      </Extensions>
+    </AppManifest>
+  </App>
+</Deployment>
