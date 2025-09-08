@@ -9,3 +9,6 @@ For iOS and Android, use Limbo for Android and UTM for iOS <br>
 VirtuWP can run these OS's: <br>
 MS-DOS <br>
 Linux <br>
+Per-VM max size limit: 25MB <br>
+Total VM size limit: 50MB <br>
+You can't have 2 25MB VMs without modifying the source code <br>
