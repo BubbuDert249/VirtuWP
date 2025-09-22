@@ -4,7 +4,7 @@ NOTE: VirtuWP does not run real OS'es, it runs a recreation of them in C# and co
 Requirements: <br>
 OS: Windows Phone 8.x or Windows 10 Mobile <br>
 RAM: 512 MB or more <br>
-CPU: Snapdragon 200 or better <br>
+CPU: Snapdragon Qualcomm 200 or newer <br>
 VirtuWP can run these OS's: <br>
 MS-DOS <br>
 Linux <br>
