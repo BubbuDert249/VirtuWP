@@ -53,7 +53,6 @@ namespace VirtuWP
             TxtVmName.Text = "";
             selectedOs = "";
         }
-        private void BtnMSDOS_Click(object sender, RoutedEventArgs e) => selectedOs = "msdos";
         private void BtnLinux_Click(object sender, RoutedEventArgs e) => selectedOs = "linux";
         private void BtnKolibriOS_Click(object sender, RoutedEventArgs e) => selectedOs = "kolibrios";
 
