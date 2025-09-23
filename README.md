@@ -6,7 +6,6 @@ OS: Windows Phone 8 or newer <br>
 RAM: 512 MB or more <br>
 CPU: Snapdragon Qualcomm 200 or newer <br>
 VirtuWP can run these OS's: <br>
-MS-DOS <br>
 Linux <br>
 KolibriOS <br>
 Per-VM max size limit: 25MB <br>
