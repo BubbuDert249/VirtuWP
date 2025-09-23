@@ -38,7 +38,6 @@
             <TextBlock Text="Create a new VM" Foreground="White" FontSize="24"/>
             <TextBlock Text="===============" Foreground="White"/>
             <TextBox x:Name="TxtVmName" PlaceholderText="Enter VM name" Margin="0,10"/>
-            <Button Content="MS-DOS" Click="BtnMSDOS_Click"/>
             <Button Content="Linux" Click="BtnLinux_Click"/>
             <Button Content="KolibriOS" Click="BtnKolibriOS_Click"/>
             <Button Content="Cancel" Click="BtnCancelNewVm_Click" Margin="0,10,0,0"/>
